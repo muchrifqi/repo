@@ -1,3 +1,4 @@
 Repository Muchamad Rifqi Hermawan
 - Pembelajaran Coding otodidak
-- Pembelajaran HTML, CSS dan Javascript
+- Pembelajaran HTML, CSS dan Javascript (Front end)
+- Pembelajaran NODE.Js (Back end)
