@@ -3,3 +3,4 @@ Repository Muchamad Rifqi Hermawan
 - Pembelajaran HTML, CSS dan Javascript (Front end)
 - Pembelajaran NODE.Js (Back end)
 - Menentukan referensi dan mengikuti pelatihan online rutin
+- Fundamental data structure
